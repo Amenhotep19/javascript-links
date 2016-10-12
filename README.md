@@ -1,5 +1,7 @@
 # JavaScript Links
 
+> A compilation of useful JavaScript references, resources, and tools.
+
 ## Language Specifications
 
 * [ECMAScript 5.1 (ES5)](http://es5.github.io/)
@@ -23,3 +25,4 @@
 * [Kangax ECMAScript Next Compatibility Table](http://kangax.github.io/compat-table/esnext/)
 * [Kangax ECMAScript Non-Standard Compatibility Table](http://kangax.github.io/compat-table/non-standard/)
 * [Web Platform Feature Availability](https://paulirish.github.io/web-feature-availability/)
+
