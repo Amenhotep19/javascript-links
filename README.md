@@ -8,6 +8,7 @@
 * [ECMAScript 2015 (ES6)](http://www.ecma-international.org/ecma-262/6.0/)
 * [ECMAScript 2016 (ES7)](http://www.ecma-international.org/ecma-262/7.0/)
 * [ECMAScript 2017 (ES8)](https://tc39.github.io/ecma262/)
+* [DOM Living Standard](https://dom.spec.whatwg.org/)
 
 ## API Reference
 
