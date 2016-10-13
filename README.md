@@ -2,6 +2,14 @@
 
 > A compilation of useful JavaScript references, resources, tutorials, and online tools.
 
+## Table of Contents
+
+* [Specifications](#specifications)
+* [API Reference](#api-reference)
+* [Compatibility Tables](#compatibility-tables)
+* [Resources](#resources)
+* [News](#news)
+
 ## Specifications
 
 * [ECMAScript 5.1 (ES5)](http://es5.github.io/)
