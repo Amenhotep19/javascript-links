@@ -6,7 +6,7 @@
 
 * [Specifications](#specifications)
 * [API Reference](#api-reference)
-* [Compatibility Tables](#compatibility-tables)
+* [Compatibility](#compatibility)
 * [Resources](#resources)
 * [News](#news)
 
@@ -26,7 +26,7 @@
 * [Microsoft Development Network (MSDN) Document Object Model (DOM)](https://msdn.microsoft.com/en-gb/library/ie/hh772384)
 * [Node.js API Documentation](https://nodejs.org/api/index.html)
 
-## Compatibility Tables
+## Compatibility
 
 * [Can I Use](http://caniuse.com/)
 * [ECMAScript 5 (ES5) Compatibility Table](http://kangax.github.io/compat-table/es5/)
@@ -35,6 +35,11 @@
 * [ECMAScript Next Compatibility Table](http://kangax.github.io/compat-table/esnext/)
 * [ECMAScript Non-Standard Compatibility Table](http://kangax.github.io/compat-table/non-standard/)
 * [Web Platform Feature Availability](https://paulirish.github.io/web-feature-availability/)
+* [Browser Platform Status Tracker](https://platformstatustracker.azurewebsites.net/)
+* [Chromium Platform Status](https://www.chromestatus.com/features)
+* [Firefox Platform Status](https://platform-status.mozilla.org/)
+* [Microsoft Edge web platform features status and roadmap](https://status.modern.ie/)
+* [WebKit Features Status](https://webkit.org/status/)
 
 ## Resources
 
@@ -70,5 +75,3 @@
 * [Versioning by SitePoint](https://www.sitepoint.com/versioning)
 * [Echo JS](http://www.echojs.com/)
 * [5 Minutes of JavaScript](https://fivejs.codeschool.com/)
-* [Chromium Platform Status](https://www.chromestatus.com/features)
-* [Microsoft Edge web platform features status and roadmap](https://status.modern.ie/)
