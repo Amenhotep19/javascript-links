@@ -1,8 +1,8 @@
 # JavaScript Links
 
-> A compilation of useful JavaScript references, resources, and tools.
+> A compilation of useful JavaScript references, resources, tutorials, and online tools.
 
-## Language Specifications
+## Specifications
 
 * [ECMAScript 5.1 (ES5)](http://es5.github.io/)
 * [ECMAScript 2015 (ES6)](http://www.ecma-international.org/ecma-262/6.0/)
@@ -27,3 +27,21 @@
 * [Kangax ECMAScript Non-Standard Compatibility Table](http://kangax.github.io/compat-table/non-standard/)
 * [Web Platform Feature Availability](https://paulirish.github.io/web-feature-availability/)
 
+## Resources
+
+* [Superhero.js](http://superherojs.com/)
+* [JS: The Right Way](http://jstherightway.org/)
+* [Mozilla Development Network (MDN) Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [Dr. Axel Rauschmayer's (2ality) Posts on the JavaScript Language](http://www.2ality.com/2012/08/guide-jslang.html)
+* [Dr. Axel Rauschmayer's (2ality) Basic JavaScript for the Impatient Programmer](http://www.2ality.com/2013/06/basic-javascript.html)
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [ECMAScript 6 Features](http://es6-features.org/)
+* [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+* [A JavaScript Quality Guide](https://github.com/bevacqua/js)
+* [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
