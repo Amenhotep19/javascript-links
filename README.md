@@ -48,3 +48,17 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+## News
+
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [Node Weekly](http://nodeweekly.com/)
+* [FrontEnd Focus](http://frontendfocus.co/)
+* [JavaScript.com News](https://www.javascript.com/news)
+* [Open Web Platform Daily Digest](https://webplatformdaily.org/)
+* [JavaScript Live](https://jslive.com/)
+* [JavaScriptKicks](http://javascriptkicks.com/stories)
+* [Front-end Front](http://frontendfront.com/)
+* [Versioning by SitePoint](https://www.sitepoint.com/versioning)
+* [Echo JS](http://www.echojs.com/)
+* [5 Minutes of JavaScript](https://fivejs.codeschool.com/)
