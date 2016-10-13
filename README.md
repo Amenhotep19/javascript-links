@@ -21,11 +21,11 @@
 ## Compatibility Tables
 
 * [Can I Use](http://caniuse.com/)
-* [Kangax ECMAScript 5.1 (ES5) Compatibility Table](http://kangax.github.io/compat-table/es5/)
-* [Kangax ECMAScript 2015 (ES6) Compatibility Table](http://kangax.github.io/compat-table/es6/)
-* [Kangax ECMAScript 2016+ Compatibility Table](http://kangax.github.io/compat-table/es2016plus/)
-* [Kangax ECMAScript Next Compatibility Table](http://kangax.github.io/compat-table/esnext/)
-* [Kangax ECMAScript Non-Standard Compatibility Table](http://kangax.github.io/compat-table/non-standard/)
+* [ECMAScript 5 (ES5) Compatibility Table](http://kangax.github.io/compat-table/es5/)
+* [ECMAScript 2015 (ES6) Compatibility Table](http://kangax.github.io/compat-table/es6/)
+* [ECMAScript 2016+ Compatibility Table](http://kangax.github.io/compat-table/es2016plus/)
+* [ECMAScript Next Compatibility Table](http://kangax.github.io/compat-table/esnext/)
+* [ECMAScript Non-Standard Compatibility Table](http://kangax.github.io/compat-table/non-standard/)
 * [Web Platform Feature Availability](https://paulirish.github.io/web-feature-availability/)
 
 ## Resources
@@ -46,3 +46,5 @@
 * [A JavaScript Quality Guide](https://github.com/bevacqua/js)
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
