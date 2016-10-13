@@ -10,6 +10,7 @@
 * [Resources](#resources)
 * [News](#news)
 * [Code](#code)
+* [Sandboxes](#sandboxes)
 
 ## Specifications
 
@@ -95,3 +96,14 @@
 * [JSter JavaScript Catalog](http://jster.net/catalog)
 * [Node Module Of The Week](https://nmotw.in/)
 * [Browserhacks](http://browserhacks.com/)
+
+## Sandboxes
+
+* [CodePen](http://codepen.io/pen/)
+* [JSFiddle](http://jsfiddle.net/)
+* [JS Bin](http://jsbin.com/)
+* [ES6 Fiddle](http://www.es6fiddle.net/)
+* [repl.it](http://repl.it/languages/JavaScript)
+* [JavaScript Console](http://jsconsole.com/)
+* [debug.js](http://debugjs.com/)
+* [RequireBin](http://requirebin.com/)
