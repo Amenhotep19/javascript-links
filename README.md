@@ -113,3 +113,21 @@
 * [JavaScript Console](http://jsconsole.com/)
 * [debug.js](http://debugjs.com/)
 * [RequireBin](http://requirebin.com/)
+
+## Tools
+
+* [JSHint](http://jshint.com/)
+* [ESLint](http://eslint.org/demo)
+* [JSCritic](http://jscritic.com/)
+* [Loupe - Event Loop Visualizer](http://latentflip.com/loupe)
+* [Promisees - Promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
+* [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)
+* [UglifyJS: Online JavaScript minifier](http://skalman.github.io/UglifyJS-online/)
+* [Refresh-SF - Online JavaScript and CSS Compressor](http://refresh-sf.com/)
+* [JSCompress](https://jscompress.com/)
+* [Closure Compiler Service](http://closure-compiler.appspot.com/home)
+* [Dirty Markup - Tidy up your HTML, CSS, and JavaScript code](https://www.dirtymarkup.com/)
+* [js2coffee 2.0 - convert JavaScript to CoffeeScript](http://js2.coffee/)
+* [JSONLint](http://pro.jsonlint.com/)
+* [Lebab modernizes your JavaScript code!](http://lebab.io/try-it)
+* [jsPerf](https://jsperf.com/)
