@@ -85,6 +85,7 @@
 
 ## Code
 
+* [GitHub](https://github.com)
 * [npm](https://www.npmjs.com/)
 * [simpl.info](http://www.simpl.info/)
 * [plainJS](http://plainjs.com/)
