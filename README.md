@@ -9,6 +9,7 @@
 * [Compatibility](#compatibility)
 * [Resources](#resources)
 * [News](#news)
+* [Code](#code)
 
 ## Specifications
 
@@ -75,3 +76,19 @@
 * [Versioning by SitePoint](https://www.sitepoint.com/versioning)
 * [Echo JS](http://www.echojs.com/)
 * [5 Minutes of JavaScript](https://fivejs.codeschool.com/)
+
+## Code
+
+* [JS.ORG | Stats](https://stats.js.org/)
+* [simpl.info](http://www.simpl.info/)
+* [plainJS](http://plainjs.com/)
+* [JS Bits](https://github.com/vasanthk/js-bits)
+* [HTML Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [JavaScripting.com](http://www.javascripting.com/)
+* [Microjs](http://microjs.com/)
+* [jQuery Plugin Registry](http://plugins.jquery.com/)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [You Might Not Need jQuery Plugins](http://youmightnotneedjqueryplugins.com/)
+* [JSter JavaScript Catalog](http://jster.net/catalog)
+* [Node Module Of The Week](https://nmotw.in/)
