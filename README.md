@@ -70,3 +70,5 @@
 * [Versioning by SitePoint](https://www.sitepoint.com/versioning)
 * [Echo JS](http://www.echojs.com/)
 * [5 Minutes of JavaScript](https://fivejs.codeschool.com/)
+* [Chromium Platform Status](https://www.chromestatus.com/features)
+* [Microsoft Edge web platform features status and roadmap](https://status.modern.ie/)
