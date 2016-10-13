@@ -12,6 +12,8 @@
 * [Code](#code)
 * [Sandboxes](#sandboxes)
 
+------------------------------------------------
+
 ## Specifications
 
 * [ECMAScript 5.1 (ES5)](http://es5.github.io/)
@@ -78,6 +80,8 @@
 * [JS.ORG | News](https://news.js.org/)
 * [Versioning by SitePoint](https://www.sitepoint.com/versioning)
 * [5 Minutes of JavaScript](https://fivejs.codeschool.com/)
+* [JavaScript Jabber](http://devchat.tv/js-jabber/)
+* [Shop Talk Show](http://shoptalkshow.com/)
 
 ## Code
 
