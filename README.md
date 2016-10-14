@@ -76,6 +76,8 @@
 * [WebComponents.org](http://webcomponents.org/)
 * [Use JSDoc](http://usejsdoc.org/)
 * [Complete Node.js CheatSheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
+* [JavaScript - Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
+* [Stack Overflow JavaScript Wiki](http://stackoverflow.com/tags/javascript/info)
 
 ## News
 
@@ -119,9 +121,10 @@
 ## Debugging
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Debugging JavaScript](https://developer.mozilla.org/en-US/docs/Mozilla/Debugging/Debugging_JavaScript)
+* [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 * [Console API Reference](https://developers.google.com/web/tools/chrome-devtools/console/console-reference)
-* [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [WHATWG Console Standard](https://console.spec.whatwg.org/)
 
 ## Sandboxes
