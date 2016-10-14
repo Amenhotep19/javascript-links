@@ -44,6 +44,7 @@
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
 * [Microsoft Edge web platform features status and roadmap](https://status.modern.ie/)
 * [WebKit Features Status](https://webkit.org/status/)
+* [WHATWG Compatibility Standard](https://compat.spec.whatwg.org/)
 
 ## Resources
 
