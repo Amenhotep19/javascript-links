@@ -63,12 +63,14 @@
 * [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 * [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+* [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 * [A JavaScript Quality Guide](https://github.com/bevacqua/js)
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+* [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 ## News
 
