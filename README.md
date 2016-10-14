@@ -23,6 +23,7 @@
 * [ECMAScript 2016 (ES7)](http://www.ecma-international.org/ecma-262/7.0/)
 * [ECMAScript 2017 (ES8)](https://tc39.github.io/ecma262/)
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
+* [Web Components](https://w3c.github.io/webcomponents/)
 
 ## API Reference
 
@@ -71,6 +72,7 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 * [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+* [WebComponents.org](http://webcomponents.org/)
 
 ## News
 
