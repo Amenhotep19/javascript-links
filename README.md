@@ -10,6 +10,7 @@
 * [Resources](#resources)
 * [News](#news)
 * [Code](#code)
+* [Debugging](#debugging)
 * [Sandboxes](#sandboxes)
 * [Tools](#tools)
 
@@ -67,7 +68,7 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+
 
 ## News
 
@@ -106,6 +107,14 @@
 * [Node Module Of The Week](https://nmotw.in/)
 * [Browserhacks](http://browserhacks.com/)
 * [ES6 Tools](https://github.com/addyosmani/es6-tools)
+
+## Debugging
+
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+* [Console API Reference](https://developers.google.com/web/tools/chrome-devtools/console/console-reference)
+* [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
+* [WHATWG Console Standard](https://console.spec.whatwg.org/)
 
 ## Sandboxes
 
