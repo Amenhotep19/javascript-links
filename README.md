@@ -74,6 +74,7 @@
 * [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [WebComponents.org](http://webcomponents.org/)
+* [Use JSDoc](http://usejsdoc.org/)
 
 ## News
 
@@ -147,6 +148,7 @@
 * [JSCompress](https://jscompress.com/)
 * [Closure Compiler Service](http://closure-compiler.appspot.com/home)
 * [Dirty Markup - Tidy up your HTML, CSS, and JavaScript code](https://www.dirtymarkup.com/)
+* [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org/)
 * [js2coffee 2.0 - convert JavaScript to CoffeeScript](http://js2.coffee/)
 * [JSONLint](http://pro.jsonlint.com/)
 * [Lebab modernizes your JavaScript code!](http://lebab.io/try-it)
