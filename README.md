@@ -75,6 +75,7 @@
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [WebComponents.org](http://webcomponents.org/)
 * [Use JSDoc](http://usejsdoc.org/)
+* [Complete Node.js CheatSheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
 ## News
 
