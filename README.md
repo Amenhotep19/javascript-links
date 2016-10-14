@@ -150,4 +150,5 @@
 * [js2coffee 2.0 - convert JavaScript to CoffeeScript](http://js2.coffee/)
 * [JSONLint](http://pro.jsonlint.com/)
 * [Lebab modernizes your JavaScript code!](http://lebab.io/try-it)
+* [Keycodes - Javascript Keyboard Codes, Character Codes, Unicode, HTML Entities](http://keycodes.atjayjo.com/)
 * [jsPerf](https://jsperf.com/)
