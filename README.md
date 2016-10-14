@@ -121,6 +121,7 @@
 ## Debugging
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Microsoft Edge Debugging Tools](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/f12-devtools-guide/)
 * [Debugging JavaScript](https://developer.mozilla.org/en-US/docs/Mozilla/Debugging/Debugging_JavaScript)
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
