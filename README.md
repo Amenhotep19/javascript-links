@@ -11,6 +11,7 @@
 * [News](#news)
 * [Code](#code)
 * [Sandboxes](#sandboxes)
+* [Tools](#tools)
 
 ------------------------------------------------
 
