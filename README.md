@@ -65,6 +65,7 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## News
 
