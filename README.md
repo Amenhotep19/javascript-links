@@ -72,6 +72,7 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 * [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+* [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [WebComponents.org](http://webcomponents.org/)
 
 ## News
