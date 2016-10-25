@@ -78,6 +78,7 @@
 * [Complete Node.js CheatSheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 * [JavaScript - Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 * [Stack Overflow JavaScript Wiki](http://stackoverflow.com/tags/javascript/info)
+* [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc)
 
 ## News
 
