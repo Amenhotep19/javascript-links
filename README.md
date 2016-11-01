@@ -79,6 +79,7 @@
 * [JavaScript - Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 * [Stack Overflow JavaScript Wiki](http://stackoverflow.com/tags/javascript/info)
 * [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc)
+* [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 ## News
 
