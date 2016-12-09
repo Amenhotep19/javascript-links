@@ -161,4 +161,5 @@
 * [JSONLint](http://pro.jsonlint.com/)
 * [Lebab modernizes your JavaScript code!](http://lebab.io/try-it)
 * [Keycodes - Javascript Keyboard Codes, Character Codes, Unicode, HTML Entities](http://keycodes.atjayjo.com/)
+* [JavaScript Benchmark Playground](https://github.com/jsbench/jsbench.github.io)
 * [jsPerf](https://jsperf.com/)
