@@ -80,6 +80,7 @@
 * [Stack Overflow JavaScript Wiki](http://stackoverflow.com/tags/javascript/info)
 * [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc)
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+* [JavaScript Clean Code Concepts](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## News
 
