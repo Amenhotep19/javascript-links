@@ -157,6 +157,7 @@
 * [JSCompress](https://jscompress.com/)
 * [Closure Compiler Service](http://closure-compiler.appspot.com/home)
 * [Dirty Markup - Tidy up your HTML, CSS, and JavaScript code](https://www.dirtymarkup.com/)
+* [Prettier](https://prettier.github.io/prettier/)
 * [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org/)
 * [js2coffee 2.0 - convert JavaScript to CoffeeScript](http://js2.coffee/)
 * [JSONLint](http://pro.jsonlint.com/)
