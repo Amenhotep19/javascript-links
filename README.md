@@ -165,3 +165,4 @@
 * [Keycodes - Javascript Keyboard Codes, Character Codes, Unicode, HTML Entities](http://keycodes.atjayjo.com/)
 * [JavaScript Benchmark Playground](https://github.com/jsbench/jsbench.github.io)
 * [jsPerf](https://jsperf.com/)
+* [JSBEN.CH Benchmarking for JavaScript](http://jsben.ch)
