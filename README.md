@@ -152,6 +152,7 @@
 * [Loupe - Event Loop Visualizer](http://latentflip.com/loupe)
 * [Promisees - Promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
 * [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)
+* [Online regex tester and debugger](https://regex101.com/)
 * [UglifyJS: Online JavaScript minifier](http://skalman.github.io/UglifyJS-online/)
 * [Refresh-SF - Online JavaScript and CSS Compressor](http://refresh-sf.com/)
 * [JSCompress](https://jscompress.com/)
