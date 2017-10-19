@@ -82,6 +82,7 @@
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 * [JavaScript Clean Code Concepts](https://github.com/ryanmcdermott/clean-code-javascript)
 * [The Modern JavaScript Resource](http://javascript.info/)
+* [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 
 ## News
 
