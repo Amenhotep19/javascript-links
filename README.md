@@ -123,6 +123,7 @@
 * [Browserhacks](http://browserhacks.com/)
 * [ES6 Tools](https://github.com/addyosmani/es6-tools)
 * [ES6 Equivalents In ES5](https://github.com/addyosmani/es6-equivalents-in-es5)
+* [30 Seconds of Code](https://30secondsofcode.org)
 
 ## Debugging
 
