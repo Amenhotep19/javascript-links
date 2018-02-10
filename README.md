@@ -83,6 +83,7 @@
 * [JavaScript Clean Code Concepts](https://github.com/ryanmcdermott/clean-code-javascript)
 * [The Modern JavaScript Resource](http://javascript.info/)
 * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+* [ES2015+ Cheatsheet](https://devhints.io/es6)
 
 ## News
 
