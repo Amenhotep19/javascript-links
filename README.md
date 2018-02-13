@@ -120,6 +120,7 @@
 * [jQuery Plugin Registry](http://plugins.jquery.com/)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 * [You Might Not Need jQuery Plugins](http://youmightnotneedjqueryplugins.com/)
+* [You Don't Need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 * [JSter JavaScript Catalog](http://jster.net/catalog)
 * [Node Module Of The Week](https://nmotw.in/)
 * [Browserhacks](http://browserhacks.com/)
