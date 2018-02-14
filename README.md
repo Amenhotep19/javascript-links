@@ -86,6 +86,7 @@
 * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [ES2015+ Cheatsheet](https://devhints.io/es6)
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)
+* [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
 
 ## News
 
