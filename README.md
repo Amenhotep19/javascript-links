@@ -9,6 +9,7 @@
 * [Compatibility](#compatibility)
 * [Resources](#resources)
 * [News](#news)
+* [Podcasts](#podcasts)
 * [Code](#code)
 * [Debugging](#debugging)
 * [Sandboxes](#sandboxes)
@@ -93,15 +94,16 @@
 * [Node Weekly](http://nodeweekly.com/)
 * [FrontEnd Focus](http://frontendfocus.co/)
 * [Open Web Platform Daily Digest](https://webplatformdaily.org/)
-* [JavaScript Live](https://jslive.com/)
 * [JavaScriptKicks](http://javascriptkicks.com/stories)
 * [Front-end Front](http://frontendfront.com/)
 * [Echo JS](http://www.echojs.com/)
-* [JS.ORG | News](https://news.js.org/)
-* [Versioning by SitePoint](https://www.sitepoint.com/versioning)
-* [5 Minutes of JavaScript](https://fivejs.codeschool.com/)
+
+## Podcasts
+
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
 * [Shop Talk Show](http://shoptalkshow.com/)
+* [Front End Happy Hour](http://frontendhappyhour.com/)
+* [The Web Platform Podcast](https://thewebplatformpodcast.com/)
 
 ## Code
 
