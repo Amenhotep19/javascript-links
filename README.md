@@ -85,13 +85,13 @@
 * [ES2015+ Cheatsheet](https://devhints.io/es6)
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)
 * [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
+* [JavaScript.com](https://www.javascript.com/)
 
 ## News
 
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [Node Weekly](http://nodeweekly.com/)
 * [FrontEnd Focus](http://frontendfocus.co/)
-* [JavaScript.com News](https://www.javascript.com/news)
 * [Open Web Platform Daily Digest](https://webplatformdaily.org/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScriptKicks](http://javascriptkicks.com/stories)
