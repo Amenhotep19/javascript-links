@@ -154,7 +154,6 @@
 
 * [JSHint](http://jshint.com/)
 * [ESLint](http://eslint.org/demo)
-* [JSCritic](http://jscritic.com/)
 * [Loupe - Event Loop Visualizer](http://latentflip.com/loupe)
 * [Promisees - Promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
 * [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)
@@ -170,7 +169,7 @@
 * [JSONLint](http://pro.jsonlint.com/)
 * [Lebab modernizes your JavaScript code!](http://lebab.io/try-it)
 * [Keycodes - Javascript Keyboard Codes, Character Codes, Unicode, HTML Entities](http://keycodes.atjayjo.com/)
-* [JavaScript Benchmark Playground](https://github.com/jsbench/jsbench.github.io)
+* [JavaScript Benchmark Playground](http://jsbench.github.io/)
 * [jsPerf](https://jsperf.com/)
 * [JSBEN.CH Benchmarking for JavaScript](http://jsben.ch)
 * [JSCost.org - A JavaScript Cost Visualization Tool](https://jscost.org/)
