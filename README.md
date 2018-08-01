@@ -112,7 +112,7 @@
 * [Unheap](http://www.unheap.com/)
 * [simpl.info](http://www.simpl.info/)
 * [plainJS](http://plainjs.com/)
-* [JS.ORG | Stats](https://stats.js.org/)
+* [Best of JavaScript](https://bestofjs.org/)
 * [HTML Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome Node.js](https://node.cool)
