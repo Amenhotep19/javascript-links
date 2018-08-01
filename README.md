@@ -65,7 +65,6 @@
 * [ECMAScript 6 Features](http://es6-features.org/)
 * [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
-* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 * [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 * [A JavaScript Quality Guide](https://github.com/bevacqua/js)
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
