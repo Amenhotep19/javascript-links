@@ -144,7 +144,6 @@
 * [CodePen](http://codepen.io/pen/)
 * [JSFiddle](http://jsfiddle.net/)
 * [JS Bin](http://jsbin.com/)
-* [ES6 Fiddle](http://www.es6fiddle.net/)
 * [ESNextbin](https://esnextb.in/)
 * [repl.it](http://repl.it/languages/JavaScript)
 * [JavaScript Console](http://jsconsole.com/)
