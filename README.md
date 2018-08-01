@@ -125,11 +125,9 @@
 * [You Don't Need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 * [JSter JavaScript Catalog](http://jster.net/catalog)
 * [Node Module Of The Week](https://nmotw.in/)
-* [Browserhacks](http://browserhacks.com/)
 * [ES6 Tools](https://github.com/addyosmani/es6-tools)
 * [ES6 Equivalents In ES5](https://github.com/addyosmani/es6-equivalents-in-es5)
 * [30 Seconds of Code](https://30secondsofcode.org)
-* [JavaScript Rising Stars](https://risingstars.js.org)
 
 ## Debugging
 
