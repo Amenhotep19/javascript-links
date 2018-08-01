@@ -47,7 +47,7 @@
 * [Browser Platform Status Tracker](https://platformstatustracker.azurewebsites.net/)
 * [Chromium Platform Status](https://www.chromestatus.com/features)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
-* [Microsoft Edge web platform features status and roadmap](https://status.modern.ie/)
+* [Microsoft Edge web platform features status and roadmap](https://status.microsoftedge.com)
 * [WebKit Features Status](https://webkit.org/status/)
 * [WHATWG Compatibility Standard](https://compat.spec.whatwg.org/)
 
