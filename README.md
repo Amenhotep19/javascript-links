@@ -55,7 +55,8 @@
 
 * [Superhero.js](http://superherojs.com/)
 * [JS: The Right Way](http://jstherightway.org/)
-* [Mozilla Development Network (MDN) Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
+* [MDN Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
+* [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Dr. Axel Rauschmayer's (2ality) Posts on the JavaScript Language](http://www.2ality.com/2012/08/guide-jslang.html)
 * [Dr. Axel Rauschmayer's (2ality) Basic JavaScript for the Impatient Programmer](http://www.2ality.com/2013/06/basic-javascript.html)
