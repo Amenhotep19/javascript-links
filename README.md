@@ -28,10 +28,8 @@
 
 ## API Reference
 
-* [Mozilla Development Network (MDN) JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [Mozilla Development Network (MDN) DOM Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Microsoft Development Network (MSDN)](http://msdn.microsoft.com/en-us/library/yek4tbz0%28VS.85%29.aspx)
-* [Microsoft Development Network (MSDN) Document Object Model (DOM)](https://msdn.microsoft.com/en-gb/library/ie/hh772384)
+* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [MDN DOM Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [Node.js Documentation](https://nodejs.org/api/index.html)
 
 ## Compatibility
